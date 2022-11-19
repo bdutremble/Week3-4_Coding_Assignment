@@ -3,7 +3,7 @@ package Weeks3and4;
 public class Weeks3and4 {
 
 	public static void main(String[] args) {
-		
+		// create array for ages
 		int agesTotal = 0;
 		int[] ages = {3, 9, 23, 64, 2, 8, 28, 93, 56};
 		int minusAge = ages[ages.length-1] - ages[0];
